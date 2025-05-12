@@ -1,5 +1,6 @@
 # PhotonLobbyManager-
 I created a room and lobby system for multiplayer games using Photon PUN.
+
 TR:
 Bu kod, Photon PUN kullanarak çok oyunculu bir oyun için oda ve lobi sistemi oluşturur. Kullanıcıların lobiye bağlanmasına, oda oluşturmasına, mevcut odaları görmesine ve bu odalara katılmasına olanak tanır. Ayrıca, odadaki oyuncu listesini dinamik olarak günceller ve oda sahibi oyunu başlatabilir. Kod, temel işlevler arasında oda oluşturma, oyuncu listeleme, oyuncu giriş-çıkış işlemleri ve oyun başlatma gibi özellikler içerir.
 
